@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: jayson.mulwa@gmail.com
 
-![alt text](https://github.com/jaysonmulwa/jaysonmulwa/blob/master/j2.png?raw=true)
+<!--![alt text](https://github.com/jaysonmulwa/jaysonmulwa/blob/master/j2.png?raw=true)-->
 
