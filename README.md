@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on https://github.com/jaysonmulwa/taxable
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on https://github.com/jaysonmulwa/probabilis
 - 💬 Ask me about anything
 - 📫 How to reach me: jayson.mulwa@gmail.com
