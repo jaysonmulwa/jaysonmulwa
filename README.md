@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
   let intro = {
     "name": "Jayson Mulwa",
-    "tools": "PHP🐘, JS🟨, Go🐹, AWS☁",
+    "tools": "PHP🐘, JS🟨, Go🐹, AWS☁, Vue🤝React",
     "others": [... AlotOfSoftSkills], 
     "workingOn": "🔭 https://github.com/jaysonmulwa/taxable",
     "contactMe": "📫 jayson.mulwa@gmail.com"
