@@ -14,8 +14,8 @@ Here are some ideas to get you started:
     "name": "Jayson Mulwa",
     "tools": "PHP🐘, JS🟨, Go🐹, AWS☁, Vue🤝React",
     "others": [... AlotOfSoftSkills], 
-    "workingOn": "🔭 https://github.com/jaysonmulwa/taxable",
-    "contactMe": "📫 jayson.mulwa@gmail.com"
+    "linkedIn": "🔭 https://linkedin.com/in/jaysonmulwa",
+    "mail": "📫 jayson.mulwa@gmail.com"
   };
 
 ```
