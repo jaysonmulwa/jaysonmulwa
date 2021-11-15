@@ -10,13 +10,15 @@ Here are some ideas to get you started:
 -->
 ```
 
-  let intro = {
+  1. let intro = {
     "name": "Jayson Mulwa",
     "tools": "PHP🐘, JS🟨, Go🐹, AWS☁, Vue🤝React",
     "others": [... AlotOfSoftSkills], 
     "linkedIn": "🔭 https://linkedin.com/in/jaysonmulwa",
     "mail": "📫 jayson.mulwa@gmail.com"
   };
+  
+  //Error on line -1
 
 ```
 
