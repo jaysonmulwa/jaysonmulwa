@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--![alt text](https://github.com/jaysonmulwa/jaysonmulwa/blob/master/j.png?raw=true)-->
+![alt text](https://github.com/jaysonmulwa/jaysonmulwa/blob/master/j.png?raw=true)
 
 <!--
 **jaysonmulwa/jaysonmulwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,12 +9,11 @@ Here are some ideas to get you started:
 
 -->
 ```
-
   let intro = {
     "name": "Jayson Mulwa",
     "tools": "PHP🐘, JS🟨, Go🐹, AWS☁, Vue🤝React",
     "others": [... AlotOfSoftSkills], 
-    "linkedIn": "🔭 https://linkedin.com/in/jaysonmulwa",
+    "linkedIn": "https://linkedin.com/in/jaysonmulwa",
     "mail": "📫 jayson.mulwa@gmail.com",
   };
 
