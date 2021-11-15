@@ -10,13 +10,16 @@ Here are some ideas to get you started:
 -->
 ```
 
-  console.log("₰௹﷼₩");
+  let intro = {
+    "name": "Jayson Mulwa",
+    "tools": "PHP🐘, JS🟨, Go🐹, AWS☁",
+    "others": [... AlotOfSoftSkills], 
+    "workingOn": "🔭 https://github.com/jaysonmulwa/taxable",
+    "contactMe": "📫 jayson.mulwa@gmail.com"
+  };
 
 ```
 
-- 🔭 I’m currently working on https://github.com/jaysonmulwa/taxable
-- 💬 Ask me about anything
-- 📫 How to reach me: jayson.mulwa@gmail.com
 
 <!--![alt text](https://github.com/jaysonmulwa/jaysonmulwa/blob/master/j2.png?raw=true)-->
 
