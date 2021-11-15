@@ -8,6 +8,11 @@
 Here are some ideas to get you started:
 
 -->
+```
+
+  console.log("notice the blank line before this function?");
+
+```
 
 - 🔭 I’m currently working on https://github.com/jaysonmulwa/taxable
 - 💬 Ask me about anything
