@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   func main(){
       jayson := Intro{
         "name": "jayson mulwa",
-        "keytooles": "PHP🐘, "NodeJS🟨, Go🐹, AWS☁, Vue🤝React",
+        "keytools": "PHP🐘, "NodeJS🟨, Go🐹, AWS☁, Vue🤝React",
         "others": "AlotOfSoftSkills...", 
         "linkedin": "https://linkedin.com/in/jaysonmulwa"
         "mail": "📫 jayson.mulwa@gmail.com"
