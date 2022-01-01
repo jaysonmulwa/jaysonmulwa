@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -->
 ```
-  //JS
+  //JavaScript 🟨
   let intro = {
     "name": "Jayson Mulwa",
     "keyTools": "PHP🐘, NodeJS🟨, Go🐹, AWS☁, Vue🤝React",
@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 ```
 
 ```
-  //Golang
-  
+  //Golang 🐹
   type Intro struct {
     name string
     keytools []string
