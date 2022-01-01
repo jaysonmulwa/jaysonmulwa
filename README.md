@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   //Golang 🐹
   type Intro struct {
     name string
-    keytools []string
+    keytools string
     others []string
     linkedIn string
     mail string
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   func main(){
       jayson := Intro{
         "name": "jayson mulwa",
-        "keytooles": ""
-        "others": ""
+        "keytooles": "PHP🐘, "NodeJS🟨, Go🐹, AWS☁, Vue🤝React",
+        "others": {AlotOfSoftSkills...}, 
         "linkedin": "https://linkedin.com/in/jaysonmulwa"
         "mail": "📫 jayson.mulwa@gmail.com"
       }
