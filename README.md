@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 -->
 ```
+  //JS
   let intro = {
     "name": "Jayson Mulwa",
     "keyTools": "PHP🐘, NodeJS🟨, Go🐹, AWS☁, Vue🤝React",
@@ -16,6 +17,29 @@ Here are some ideas to get you started:
     "linkedIn": "https://linkedin.com/in/jaysonmulwa",
     "mail": "📫 jayson.mulwa@gmail.com",
   };
+
+```
+
+```
+  //Golang
+  
+  type Intro struct {
+    name string
+    keytools []string
+    others []string
+    linkedIn string
+    mail string
+  }
+  
+  func main(){
+      jayson := Intro{
+        "name": "jayson mulwa",
+        "keytooles": ""
+        "others": ""
+        "linkedin": "https://linkedin.com/in/jaysonmulwa"
+        "mail": "📫 jayson.mulwa@gmail.com"
+      }
+  }
 
 ```
 
