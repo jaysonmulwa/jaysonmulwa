@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 ```
   //JavaScript 🟨
-  let intro = {
+  const intro = {
     "name": "Jayson Mulwa",
     "keyTools": "PHP🐘, NodeJS🟨, Go🐹, AWS☁, Vue🤝React",
     "others": [... AlotOfSoftSkills], 
