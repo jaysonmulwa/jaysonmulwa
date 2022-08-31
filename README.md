@@ -34,7 +34,6 @@ Here are some ideas to get you started:
       jayson := Intro{
         "name": "jayson mulwa",
         "keytools": "PHP🐘, "NodeJS🟨, Go🐹, AWS☁, Vue🤝React",
-        "others": "AlotOfSoftSkills...", 
         "linkedin": "https://linkedin.com/in/jaysonmulwa"
         "mail": "📫 jayson.mulwa@gmail.com"
       }
