@@ -1,7 +1,7 @@
 Hi there, I code in: 
 .go .js .ts .php .java .c
 
-(Out of pressure to fit in) Here is a graphical representation, of the technologies i've mastered, in icon form 
+(Out of pressure to fit in) Here is a graphical representation, of the technologies i've mastered, in icon form:
 
 Ask me anything: jayson.mulwa@gmail.com
 
