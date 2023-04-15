@@ -22,10 +22,14 @@ FrontEnd
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest" /></code>
 
 
+My NPM Packages and their downloads
 
+| Name                                                   | Downloads  |
+| ------------------------------------------------------ | ---------- |
+| [probabilis](https://www.npmjs.com/package/probabilis)| 	1,603     |
+| [taxable](https://www.npmjs.com/package/taxable)       | 542        |
 
-
-Ask me anything: jayson.mulwa@gmail.com
 
 <!--[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")-->
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=jaysonmulwa.jaysonmulwa&left_color=green&right_color=red)-->
 
