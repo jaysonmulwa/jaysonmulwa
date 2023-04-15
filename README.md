@@ -4,16 +4,14 @@ Backend
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot" /></code>
 
 
-Databases
+Databases, Cloud & Devops
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,mongodb)](https://skillicons.dev)
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" /></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
 
-Cloud, Devops, Other
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
-
 
 
 FrontEnd
