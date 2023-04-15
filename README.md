@@ -1,7 +1,9 @@
 Backend
 
-[![My Skills](https://skillicons.dev/icons?i=go,php,laravel,nodejs,expressjs,nestjs,graphql,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,expressjs,nestjs,graphql,c,java)](https://skillicons.dev)
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot" /></code>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
+<img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Codeigniter" alt="Codeigniter" width="40" height="40"/>&nbsp;
 
 
 Databases, Cloud & Devops
@@ -27,6 +29,8 @@ My NPM Packages and their downloads
 | [probabilis](https://www.npmjs.com/package/probabilis)| 	1,603     |
 | [taxable](https://www.npmjs.com/package/taxable)       | 542        |
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaysonmulwa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")-->
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=jaysonmulwa.jaysonmulwa&left_color=green&right_color=red)-->
