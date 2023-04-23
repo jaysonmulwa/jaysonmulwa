@@ -26,6 +26,7 @@ My NPM Packages and their downloads
 | ------------------------------------------------------ | ---------- |
 | [probabilis](https://www.npmjs.com/package/probabilis) ![npm](https://img.shields.io/npm/v/probabilis?color=green&label=probabilis) ![npm](https://img.shields.io/npm/dy/probabilis)| 	1,614    |
 | [taxable](https://www.npmjs.com/package/taxable) ![npm](https://img.shields.io/npm/v/taxable?color=green&label=taxable) ![npm](https://img.shields.io/npm/dy/taxable)      | 547        |
+| [spektra](https://www.npmjs.com/package/spektra)      | new!       |
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaysonmulwa&theme=dark&background=000000)](https://git.io/streak-stats)
