@@ -24,7 +24,7 @@ My NPM Packages and their downloads
 
 | Name                                                   | Downloads  |
 | ------------------------------------------------------ | ---------- |
-| [probabilis](https://www.npmjs.com/package/probabilis)| 	1,603     |
+| [probabilis](https://www.npmjs.com/package/probabilis)| 	1,614    |
 | [taxable](https://www.npmjs.com/package/taxable)       | 542        |
 
 
