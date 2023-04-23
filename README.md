@@ -25,7 +25,7 @@ My NPM Packages and their downloads
 | Name                                                   | Downloads  |
 | ------------------------------------------------------ | ---------- |
 | [probabilis](https://www.npmjs.com/package/probabilis)| 	1,614    |
-| [taxable](https://www.npmjs.com/package/taxable)       | 542        |
+| [taxable](https://www.npmjs.com/package/taxable)       | 547        |
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaysonmulwa&theme=dark&background=000000)](https://git.io/streak-stats)
