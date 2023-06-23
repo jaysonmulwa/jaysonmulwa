@@ -1,11 +1,11 @@
 
 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=go,ruby,nodejs,php,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,php,ruby,java,c)](https://skillicons.dev)
 
 Frameworks/Tools
 
-[![My Skills](https://skillicons.dev/icons?i=expressjs,nestjs,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=expressjs,nestjs,graphql,rails)](https://skillicons.dev)
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot" /></code>
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Codeigniter" alt="Codeigniter" width="40" height="40"/>
