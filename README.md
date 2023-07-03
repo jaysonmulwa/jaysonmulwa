@@ -21,7 +21,7 @@ Databases, Cloud & Devops
 
 FrontEnd
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vuejs,nuxtjs,react,electron,html,css,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vuejs,nuxtjs,react,electron,tailwind,bootstrap)](https://skillicons.dev)
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest" /></code>
 
 
