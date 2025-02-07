@@ -1,7 +1,7 @@
 
 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,php,ruby,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,php,python,ruby,java,c)](https://skillicons.dev)
 
 Frameworks/Tools
 
