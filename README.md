@@ -34,7 +34,7 @@ My open-source projects (npm Packages) and their downloads
 | [spektra](https://www.npmjs.com/package/spektra)  ![npm](https://img.shields.io/npm/v/taxable?color=green&label=spektra) ![npm](https://img.shields.io/npm/dy/spektra)    | new!       |
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaysonmulwa&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaysonmulwa&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 <!--[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")-->
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=jaysonmulwa.jaysonmulwa&left_color=green&right_color=red)-->
