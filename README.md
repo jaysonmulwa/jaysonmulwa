@@ -25,9 +25,9 @@ FrontEnd
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest" /></code>
 
 
-My open-source projects (npm Packages) and their downloads
 
-| Name                                                   |
+
+| Open-source projects (npm Packages)                                          |
 | ------------------------------------------------------ |
 | [probabilis](https://www.npmjs.com/package/probabilis) ![npm](https://img.shields.io/npm/v/probabilis?color=green&label=probabilis) ![npm](https://img.shields.io/npm/dy/probabilis)|
 | [taxable](https://www.npmjs.com/package/taxable) ![npm](https://img.shields.io/npm/v/taxable?color=green&label=taxable) ![npm](https://img.shields.io/npm/dy/taxable)      |
