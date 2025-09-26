@@ -34,6 +34,8 @@ FrontEnd
 | [taxable](https://www.npmjs.com/package/taxable) ![npm](https://img.shields.io/npm/v/taxable?color=green&label=taxable) ![npm](https://img.shields.io/npm/dy/taxable)      |
 | [spektra](https://www.npmjs.com/package/spektra)  ![npm](https://img.shields.io/npm/v/taxable?color=green&label=spektra) ![npm](https://img.shields.io/npm/dy/spektra)    |
 
+[More about me](https://jaysonmulwa.vercel.app)
+
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaysonmulwa&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
