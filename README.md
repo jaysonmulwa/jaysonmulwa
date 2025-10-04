@@ -30,11 +30,17 @@ FrontEnd
 
 | Open-source projects (npm Packages)                                          |
 | ------------------------------------------------------ |
+| [spektra](https://www.npmjs.com/package/spektra)  ![npm](https://img.shields.io/npm/v/spektra?color=green&label=spektra) ![npm](https://img.shields.io/npm/dy/spektra)    |
 | [probabilis](https://www.npmjs.com/package/probabilis) ![npm](https://img.shields.io/npm/v/probabilis?color=green&label=probabilis) ![npm](https://img.shields.io/npm/dy/probabilis)|
 | [taxable](https://www.npmjs.com/package/taxable) ![npm](https://img.shields.io/npm/v/taxable?color=green&label=taxable) ![npm](https://img.shields.io/npm/dy/taxable)      |
-| [spektra](https://www.npmjs.com/package/spektra)  ![npm](https://img.shields.io/npm/v/taxable?color=green&label=spektra) ![npm](https://img.shields.io/npm/dy/spektra)    |
+
 
 [More about me](https://jaysonmulwa.vercel.app)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurupatoh&show_icons=true&locale=en&layout=compact" alt="gurupatoh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurupatoh&show_icons=true&locale=en" alt="gurupatoh" /></p>
 
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaysonmulwa&theme=dark&background=000000)](https://git.io/streak-stats)-->
