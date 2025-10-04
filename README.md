@@ -38,9 +38,9 @@ FrontEnd
 [More about me](https://jaysonmulwa.vercel.app)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurupatoh&show_icons=true&locale=en&layout=compact" alt="gurupatoh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysonmulwa&show_icons=true&locale=en&layout=compact" alt="jaysonmulwa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurupatoh&show_icons=true&locale=en" alt="gurupatoh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysonmulwa&show_icons=true&locale=en" alt="jaysonmulwa" /></p>
 
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaysonmulwa&theme=dark&background=000000)](https://git.io/streak-stats)-->
