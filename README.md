@@ -1,5 +1,5 @@
 
-Languages
+<!--Languages
 
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,php,python,ruby,java,c)](https://skillicons.dev)
 
@@ -35,7 +35,7 @@ FrontEnd
 | [taxable](https://www.npmjs.com/package/taxable) ![npm](https://img.shields.io/npm/v/taxable?color=green&label=taxable) ![npm](https://img.shields.io/npm/dy/taxable)      |
 
 
-<a href="https://jaysonmulwa.vercel.app" target="_blank" rel="noopener noreferrer" style="color: red;">More about me</a>
+<a href="https://jaysonmulwa.vercel.app" target="_blank" rel="noopener noreferrer" style="color: red;">More about me</a>-->
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysonmulwa&show_icons=true&locale=en&layout=compact" alt="jaysonmulwa" /></p>
